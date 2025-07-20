@@ -1,7 +1,7 @@
 <!-- Top Project Banner -->
-<!-- <p align="center">
-  <img src="https://your-org-assets.com/banner.png" alt="Project Banner" width="100%" />
-</p> -->
+<p align="center">
+  <img src="../banner.png" alt="Project Banner" width="100%" />
+</p>
 
 <h1 align="center">🚀 Rizing Summer Internship Website</h1>
 <p align="center">An enterprise-grade website powered by React, Spring Boot, MongoDB and integrated with Cloudflare and Mailjet.</p>
