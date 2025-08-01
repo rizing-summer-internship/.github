@@ -17,7 +17,7 @@
 
 ## 📖 Overview
 
-This project is a website built to showcase the experiences of the summer interns at Rizing Consumer Industries. A non-profit program that aims to enhance the skills of upcoming undergraduates to succeed and thrive in the corporate world. This website is meant to showcase their learnings and hardwork throughout the program and inspire others who aim to improve themselves as well.
+This project is a website built to showcase the experiences of the summer interns. A non-profit program that aims to enhance the skills of upcoming undergraduates to succeed and thrive in the corporate world. This website is meant to showcase their learnings and hardwork throughout the program and inspire others who aim to improve themselves as well.
 
 ### ✨ Features
 
@@ -38,19 +38,19 @@ This project is a website built to showcase the experiences of the summer intern
   <img alt="Mailjet" src="https://img.shields.io/badge/Mailjet-003366?style=for-the-badge&logo=mailjet&logoColor=white" />
 </p>
 
-## 📬 Contact
+<!-- ## 📬 Contact
 
 <p align="center">
   <a href="https://www.facebook.com/Rizingsummerinterns/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  </a> -->
   <!-- <a href="https://instagram.com/yourorg" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> -->
-  <a href="https://www.linkedin.com/company/rizing-consumer-industries/posts/?feedView=all" target="_blank">
+  <!-- <a href="https://www.linkedin.com/company/rizing-consumer-industries/posts/?feedView=all" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contact@yourorg.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p> -->
